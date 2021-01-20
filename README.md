@@ -1,4 +1,4 @@
-# data_class
+# 
 
 The content of this repository is purely for the purpose of a data analytics 
 course at the Erasmus University Rotterdam, in which some HMTL basics are 
